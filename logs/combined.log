@@ -1,0 +1,351 @@
+{"date":"2023-03-18T11:55:21.390Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs"}
+{"date":"2023-03-18T11:55:21.465Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T11:55:21.630Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T11:55:21.633Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T11:55:21.640Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T11:55:21.644Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T11:55:23.331Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T11:56:28.283Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T11:56:28.376Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T11:56:28.382Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T11:56:28.386Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T11:56:28.398Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T11:56:28.964Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:02:10.800Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:02:10.885Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:02:10.889Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:02:10.903Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:02:10.906Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:02:11.324Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:04:34.661Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:04:34.744Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:04:34.759Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:04:34.770Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:04:34.773Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:04:35.172Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:04:48.524Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:04:48.581Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:04:48.591Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:04:48.604Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:04:48.609Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:04:49.064Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:05:49.706Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:05:49.785Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:05:49.802Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:05:49.816Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:05:49.825Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:05:50.213Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:07:05.429Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:07:05.494Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:07:05.501Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:07:05.514Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:07:05.520Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:07:05.974Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:09:27.137Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:09:27.200Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:09:27.204Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:09:27.213Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:09:27.231Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:09:27.598Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:10:43.626Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:10:43.728Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:10:43.735Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:10:43.741Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:10:43.755Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:10:44.968Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:11:20.372Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:11:20.452Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:11:20.471Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:11:20.475Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:11:20.480Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:11:21.001Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:12:15.984Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:12:16.073Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:12:16.085Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:12:16.101Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:12:16.104Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:12:16.472Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:13:28.892Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:13:28.921Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:13:29.107Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:13:29.117Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:13:29.121Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:13:29.123Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:13:32.976Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:13:33.029Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:13:33.040Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:13:33.049Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:13:33.056Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:13:33.422Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:13:56.838Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:13:56.912Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:13:56.930Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:13:56.937Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:13:56.942Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:13:57.288Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:14:06.576Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:14:06.625Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:14:06.631Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:14:06.646Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:14:06.657Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:14:06.947Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:14:40.464Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-03-18T12:14:40.572Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-03-18T12:14:40.578Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-03-18T12:14:40.586Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-03-18T12:14:40.609Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-03-18T12:14:41.266Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-03-18T12:29:00.797Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/"}
+{"date":"2023-03-18T12:30:38.116Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/"}
+{"date":"2023-03-18T12:38:23.451Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2024-03-11T08:36:48.639Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/docs"}
+{"date":"2024-03-11T08:37:54.499Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:37:56.993Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:39:04.339Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform"}
+{"date":"2024-03-11T08:39:12.139Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:39:14.102Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:39:14.606Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:39:15.182Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:39:15.382Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:39:15.566Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:41:30.554Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:41:31.134Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:41:31.310Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:41:31.502Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T08:42:16.883Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/auth/login"}
+{"date":"2024-03-11T08:42:48.786Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/"}
+{"date":"2024-03-11T08:42:48.807Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T08:42:59.399Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs"}
+{"date":"2024-03-11T08:42:59.405Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2024-03-11T08:42:59.421Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2024-03-11T08:42:59.425Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2024-03-11T08:42:59.426Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2024-03-11T08:42:59.429Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2024-03-11T08:42:59.764Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2024-03-11T08:59:20.583Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2024-03-11T08:59:20.603Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2024-03-11T08:59:20.605Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2024-03-11T08:59:20.609Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2024-03-11T08:59:20.611Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2024-03-11T08:59:20.782Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2024-03-11T08:59:22.115Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2024-03-11T08:59:22.126Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2024-03-11T08:59:22.128Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2024-03-11T08:59:22.130Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2024-03-11T08:59:22.133Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2024-03-11T08:59:22.223Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2024-03-11T08:59:22.627Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2024-03-11T08:59:22.638Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2024-03-11T08:59:22.639Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2024-03-11T08:59:22.641Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2024-03-11T08:59:22.642Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2024-03-11T08:59:22.710Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2024-03-11T08:59:28.266Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/"}
+{"date":"2024-03-11T08:59:36.897Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/auth/login"}
+{"date":"2024-03-11T09:00:08.689Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/auth/logout"}
+{"date":"2024-03-11T09:00:37.993Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:01:13.233Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:01:17.613Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:01:20.365Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:03:07.023Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:03:08.829Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:31:43.698Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:32:27.854Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:32:32.809Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T09:32:37.125Z","level":"error","message":{"name":"SequelizeDatabaseError","original":{"code":"ER_PARSE_ERROR","errno":1064,"sql":"SELECT * from 'scs_accounts' where id = 149","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''scs_accounts' where id = 149' at line 1","sqlState":"42000"},"parameters":{},"parent":{"code":"ER_PARSE_ERROR","errno":1064,"sql":"SELECT * from 'scs_accounts' where id = 149","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''scs_accounts' where id = 149' at line 1","sqlState":"42000"},"sql":"SELECT * from 'scs_accounts' where id = 149"},"service":"user-service"}
+{"date":"2024-03-11T10:42:51.001Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/149"}
+{"date":"2024-03-11T10:43:26.493Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/149"}
+{"date":"2024-03-11T10:44:31.947Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T10:44:37.728Z","level":"error","message":{"name":"SequelizeDatabaseError","original":{"code":"ER_PARSE_ERROR","errno":1064,"sql":"SELECT * from 'scs_accounts' where id = 149","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''scs_accounts' where id = 149' at line 1","sqlState":"42000"},"parameters":{},"parent":{"code":"ER_PARSE_ERROR","errno":1064,"sql":"SELECT * from 'scs_accounts' where id = 149","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''scs_accounts' where id = 149' at line 1","sqlState":"42000"},"sql":"SELECT * from 'scs_accounts' where id = 149"},"service":"user-service"}
+{"date":"2024-03-11T10:46:27.433Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T10:46:27.715Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/149"}
+{"date":"2024-03-11T10:46:27.776Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T10:48:43.370Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T10:48:47.865Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/149"}
+{"date":"2024-03-11T10:48:47.911Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T10:49:12.918Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/145"}
+{"date":"2024-03-11T10:49:21.280Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/145"}
+{"date":"2024-03-11T10:49:21.321Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T10:50:21.257Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/145"}
+{"date":"2024-03-11T10:50:59.992Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/145"}
+{"date":"2024-03-11T10:52:13.876Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/145"}
+{"date":"2024-03-11T10:52:34.365Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/145"}
+{"date":"2024-03-11T10:52:34.575Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T10:53:41.129Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/145"}
+{"date":"2024-03-11T10:53:41.375Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T10:55:45.397Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T10:55:55.411Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"ETIMEDOUT","errorno":"ETIMEDOUT","fatal":true,"syscall":"connect"},"parent":{"code":"ETIMEDOUT","errorno":"ETIMEDOUT","fatal":true,"syscall":"connect"}},"service":"user-service"}
+{"date":"2024-03-11T10:56:36.272Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T10:56:40.078Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"service":"user-service"}
+{"date":"2024-03-11T10:58:04.435Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T10:58:04.659Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T10:58:44.241Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T10:58:59.728Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T10:59:13.367Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T10:59:20.577Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"service":"user-service"}
+{"date":"2024-03-11T11:00:33.945Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:00:34.163Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:00:37.832Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:01:08.517Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:01:17.749Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:01:59.886Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:02:05.368Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:02:09.021Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:02:13.397Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"service":"user-service"}
+{"date":"2024-03-11T11:06:53.704Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:06:53.969Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:06:58.827Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:09:08.614Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:09:15.278Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:09:17.821Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:09:18.129Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:09:27.286Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:09:27.596Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:09:35.944Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:09:42.012Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:09:51.321Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:09:52.188Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:11:25.546Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platfrom/109"}
+{"date":"2024-03-11T11:11:45.104Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:14:33.600Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:14:40.283Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"service":"user-service"}
+{"date":"2024-03-11T11:31:20.254Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:31:20.258Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:31:20.290Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:31:38.999Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:31:39.003Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:31:39.022Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:31:40.515Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:31:40.516Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:31:40.531Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:31:42.659Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:31:42.660Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:31:42.671Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:32:23.238Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:32:28.307Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:32:28.363Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:32:49.836Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:32:50.038Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:32:50.056Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:32:51.191Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:32:51.387Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:32:51.400Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:32:54.352Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:32:54.548Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:32:54.563Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:33:03.803Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:33:03.999Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:33:17.100Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T11:33:23.115Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/149"}
+{"date":"2024-03-11T11:33:40.156Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:33:49.741Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:33:49.819Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:34:24.856Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:34:30.170Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"service":"user-service"}
+{"date":"2024-03-11T11:34:49.801Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:34:50.172Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:34:56.298Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T11:35:02.695Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:50:12.329Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:50:19.712Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"service":"user-service"}
+{"date":"2024-03-11T11:52:01.902Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:52:04.611Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"service":"user-service"}
+{"date":"2024-03-11T11:52:32.646Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:52:34.432Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"service":"user-service"}
+{"date":"2024-03-11T11:53:17.802Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:53:20.326Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:53:46.363Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:53:51.929Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:53:52.026Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:54:16.845Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:22.769Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:54:24.665Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:24.669Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:54:26.702Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:26.705Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:54:31.804Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:36.768Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:54:42.606Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:42.608Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:54:44.004Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:44.006Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:54:45.985Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:45.987Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:54:47.454Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:50.668Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:54:52.708Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:54:52.713Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:55:40.069Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:55:41.605Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:55:43.475Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:55:43.478Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:55:45.165Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:55:45.168Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:55:45.871Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:55:45.873Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:55:46.610Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:55:46.612Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:55:47.274Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:55:47.276Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:54.338Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:54.345Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:54.365Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:55.893Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:55.895Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:55.911Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:56.413Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:56.415Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:56.430Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:56.604Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:56.606Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:56.618Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:57.381Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:57.383Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:57.397Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:57.564Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:57.566Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:57.581Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:57.741Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:57.744Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:57.760Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:57.917Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:57.919Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:57.934Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:58.084Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:58.086Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:58.100Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:58.476Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:58.478Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:58.492Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:56:58.676Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:56:58.677Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:56:58.694Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T11:57:55.998Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T11:57:57.865Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"fatal":true,"hostname":"ecommerceplatform-db.cluster-cogocptcyo3p.us-east-2.rds.amazonaws.com","syscall":"getaddrinfo"}},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T11:57:57.920Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T12:03:07.951Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:03:11.657Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T12:03:39.430Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:03:43.739Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T12:03:53.535Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:03:56.224Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T12:04:37.370Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:04:40.867Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
+{"date":"2024-03-11T12:04:54.567Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:10:58.834Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:11:02.907Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T12:11:28.428Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:11:35.374Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:11:40.360Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:12:32.081Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T12:12:34.983Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/favicon.ico"}
+{"date":"2024-03-11T12:13:00.493Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/109"}
+{"date":"2024-03-11T12:13:10.307Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T12:13:21.945Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/149"}
+{"date":"2024-03-11T12:13:31.952Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"ETIMEDOUT","errorno":"ETIMEDOUT","fatal":true,"syscall":"connect"},"parent":{"code":"ETIMEDOUT","errorno":"ETIMEDOUT","fatal":true,"syscall":"connect"}},"service":"user-service"}
+{"date":"2024-03-11T12:20:55.957Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/client/149"}
+{"date":"2024-03-11T12:21:13.103Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/client/149"}
+{"date":"2024-03-11T12:21:35.097Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/client/149"}
+{"date":"2024-03-11T12:21:38.489Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/client/149"}
+{"date":"2024-03-11T12:21:43.667Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/client/109"}
+{"date":"2024-03-11T12:22:58.566Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/platform/client/109"}
