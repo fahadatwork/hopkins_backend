@@ -59,3 +59,42 @@
 {"date":"2024-03-11T12:03:56.224Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
 {"date":"2024-03-11T12:04:40.867Z","level":"error","message":{},"method":"GET","service":"user-service","url":"/109"}
 {"date":"2024-03-11T12:13:31.952Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"ETIMEDOUT","errorno":"ETIMEDOUT","fatal":true,"syscall":"connect"},"parent":{"code":"ETIMEDOUT","errorno":"ETIMEDOUT","fatal":true,"syscall":"connect"}},"service":"user-service"}
+{"date":"2024-03-12T07:35:15.913Z","level":"error","message":{"name":"SequelizeConnectionError","original":{"code":"ER_BAD_DB_ERROR","errno":1049,"sqlMessage":"Unknown database 'ecom_109'","sqlState":"42000"},"parent":{"code":"ER_BAD_DB_ERROR","errno":1049,"sqlMessage":"Unknown database 'ecom_109'","sqlState":"42000"}},"service":"user-service"}
+{"date":"2024-03-12T09:36:30.933Z","level":"error","message":"Unknown column 'pottery' in 'where clause'","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T09:38:33.059Z","level":"error","message":"Unknown column 'pottery' in 'where clause'","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T09:38:42.894Z","level":"error","message":"Unknown column 'pottery' in 'where clause'","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T09:41:33.167Z","level":"error","message":"Unknown column 'pottery' in 'where clause'","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T09:54:17.012Z","level":"error","message":"Unknown column 'pottery' in 'where clause'","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T09:55:35.616Z","level":"error","message":"Unknown column 'pottery' in 'where clause'","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:09:42.495Z","level":"error","message":"Assignment to constant variable.","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:12:50.218Z","level":"error","message":"cannot find any user assosiated with provided credentials","service":"user-service"}
+{"date":"2024-03-12T10:12:50.221Z","level":"error","message":"Cannot read properties of undefined (reading 'status')","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:13:19.043Z","level":"error","message":"cannot find any user assosiated with provided credentials","service":"user-service"}
+{"date":"2024-03-12T10:13:19.045Z","level":"error","message":"res.status is not a function","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:13:51.115Z","level":"error","message":"cannot find any user assosiated with provided credentials","service":"user-service"}
+{"date":"2024-03-12T10:13:51.119Z","level":"error","message":"Cannot read properties of undefined (reading 'status')","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:22:35.572Z","level":"error","message":"connect ECONNREFUSED 3.131.126.71:3306","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:36:48.769Z","level":"error","message":"Please Check your Credentials and try again","service":"user-service"}
+{"date":"2024-03-12T10:36:48.770Z","level":"error","message":"Cannot read properties of undefined (reading 'status')","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:37:12.417Z","level":"error","message":"Please Check your credentials and try again","service":"user-service"}
+{"date":"2024-03-12T10:37:12.420Z","level":"error","message":"Cannot read properties of undefined (reading 'status')","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:42:30.517Z","level":"error","message":"Please Check your Credentials and try again","service":"user-service"}
+{"date":"2024-03-12T10:42:30.518Z","level":"error","message":"Cannot read properties of undefined (reading 'status')","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:44:23.323Z","level":"error","message":"Please Check your Credentials and try again","service":"user-service"}
+{"date":"2024-03-12T10:44:23.324Z","level":"error","message":"Cannot read properties of undefined (reading 'status')","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:44:36.231Z","level":"error","message":"Please Check your Credentials and try again","service":"user-service"}
+{"date":"2024-03-12T10:44:36.232Z","level":"error","message":"Cannot read properties of undefined (reading 'status')","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:45:10.025Z","level":"error","message":"Please Check your Credentials and try again","service":"user-service"}
+{"date":"2024-03-12T10:45:10.025Z","level":"error","message":"Cannot read properties of undefined (reading 'status')","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T10:47:08.889Z","level":"error","message":"Please Check your Credentials and try again","method":"POST","service":"user-service","url":"/login"}
+{"date":"2024-03-12T12:07:06.686Z","level":"error","message":"Unauthorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:07:09.989Z","level":"error","message":"Unauthorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:07:12.074Z","level":"error","message":"Unauthorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:07:12.837Z","level":"error","message":"Unauthorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:07:13.505Z","level":"error","message":"Unauthorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:07:14.328Z","level":"error","message":"Unauthorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:07:26.595Z","level":"error","message":"Unauthorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:07:33.287Z","level":"error","message":"Unauthorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:13:28.830Z","level":"error","message":"Unathorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:14:07.523Z","level":"error","message":"Unathorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}
+{"date":"2024-03-12T12:14:11.361Z","level":"error","message":"Unathorized","method":"GET","service":"user-service","url":"/categories/all?page=2&limit=5"}

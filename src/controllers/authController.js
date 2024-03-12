@@ -1,7 +1,10 @@
-const User = require("../models/User/user");
+const bcrypt = require('bcryptjs');
 const sendMail = require("../utils/sendMail");
 const SuccessHandler = require("../utils/SuccessHandler");
 const ErrorHandler = require("../utils/ErrorHandler");
+const { QueryFn } = require("../config/db");
+const { connectDatabase } = require("../config/authenticator");
+const { SignToken } =  require("../utils/auth");
 //register
 const register = async (req, res) => {
   // #swagger.tags = ['auth']
@@ -96,21 +99,43 @@ const verifyEmail = async (req, res) => {
 const login = async (req, res) => {
   // #swagger.tags = ['auth']
 
+  const database = await QueryFn('ecom_main');
+
+  const { username, password } = req.body
+   
+   const query = `SELECT * FROM \`auth_users\` WHERE username = '${username}'`;
+  
+
   try {
-    const { email, password } = req.body;
-    const user = await User.findOne({ email }).select("+password");
-    if (!user) {
-      return ErrorHandler("User does not exist", req, 400, res);
+      
+    connectDatabase(database);
+
+     const user = await database.query(query, { type: database.QueryTypes.SELECT });
+
+    if(user.length === 0){
+
+       return ErrorHandler("Please Check your credentials and try again", 404, req, res);
     }
-    const isMatch = await user.comparePassword(password);
-    if (!isMatch) {
-      return ErrorHandler("Invalid credentials", 400, req, res);
+
+    const matched = await bcrypt.compare(password, user[0].password)
+
+    if(!matched) {
+
+        return ErrorHandler("Please Check your Credentials and try again", 410, req, res)
     }
-    if (!user.emailVerified) {
-      return ErrorHandler("Email not verified", 400, req, res);
-    }
-    jwtToken = user.getJWTToken();
-    return SuccessHandler("Logged in successfully", 200, res);
+
+     delete user[0].password
+
+      const token = SignToken(user[0]);
+
+      res.cookie("token", token, {
+          httpOnly : true,
+      });
+
+      
+      return SuccessHandler( `logged in as ${user[0].username}`, 200, res);
+
+   
   } catch (error) {
     return ErrorHandler(error.message, 500, req, res);
   }
@@ -121,7 +146,7 @@ const logout = async (req, res) => {
   // #swagger.tags = ['auth']
 
   try {
-    req.user = null;
+    res.clearCookie('token');
     return SuccessHandler("Logged out successfully", 200, res);
   } catch (error) {
     return ErrorHandler(error.message, 500, req, res);

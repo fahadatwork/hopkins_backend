@@ -25,7 +25,7 @@ exports.selectPlatform = async(req, res) =>{
    }
    catch(error){
 
-      ErrorHandler(error, 500 , res);
+      ErrorHandler(error, 500 , req, res);
 
    }
 }

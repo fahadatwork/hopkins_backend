@@ -1,21 +1,23 @@
 const jwt = require("jsonwebtoken");
-const User = require("../models/User/user");
-const dotenv = require("dotenv");
+const ErrorHandler = require("../utils/ErrorHandler");
+require('dotenv').config();
 
-dotenv.config({ path: ".././src/config/config.env" });
+const secret = process.env.JWT_SECRET
 
-const isAuthenticated = async (req, res, next) => {
+exports.Authenticated = (req, res, next) => {
+  const token = req.cookies.token;
+
+  if (!token) {
+    return ErrorHandler("Acccess Denied, No Authenticed user", 401, req, res)
+  }
+
   try {
-    const token = req.headers.authorization;
-    if (!token) {
-      return res.status(401).json({ success: false, message: "Not logged in" });
-    }
-    const decoded = jwt.verify(token, process.env.JWT_SECRET);
-    req.user = await User.findById(decoded._id);
+    const decoded = jwt.verify(token, secret);
+
+    req.user = decoded;
+
     next();
-  } catch (error) {
-    res.status(500).json({ success: false, message: error.message });
+  } catch (ex) {
+    return ErrorHandler("Acccess Denied, incorrect token", 400, req, res)
   }
 };
-
-module.exports = isAuthenticated;

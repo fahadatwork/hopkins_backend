@@ -3,6 +3,7 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 const ApiError = require("./utils/ApiError");
 const app = express();
+const cookieParser = require("cookie-parser");
 const router = require("./router/index");
 const loggerMiddleware = require("./middleware/loggerMiddleware");
 const swaggerUi = require("swagger-ui-express");
@@ -13,6 +14,7 @@ app.use(express.json());
 app.use(cors());
 app.options("*", cors());
 app.use(express.urlencoded({ extended: true }));
+app.use(cookieParser());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(loggerMiddleware);
 

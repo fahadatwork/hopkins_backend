@@ -10,7 +10,9 @@ exports.QueryFn = async(database_name) => {
 
     host: process.env.DATABASE_URL,
   
-    dialect: 'mysql'
+    dialect: 'mysql',
+
+    logging: false
   
   }); 
 
