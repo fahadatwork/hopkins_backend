@@ -16,7 +16,7 @@ exports.PasswordHashMatched = async (password, hashed_password) => {
 
 exports.SignToken = (payload) => {
 
-    const secret = process.env.JWT_SECRET;
+    const secret_key = process.env.JWT_SECRET;
 
-    return jwt.sign(payload, secret, {expiresIn : '1h'})
+    return jwt.sign(payload, secret_key, {expiresIn : '1h'})
 }
